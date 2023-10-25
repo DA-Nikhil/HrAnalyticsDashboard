@@ -23,11 +23,11 @@ ADvanced Excel
 
 # Dashboard Content 
 
-● Employee Count (KPI)
-● Attition Count (KPI)
-● Attrition Rate (KPI)
-● Active Employee (KPI)
-● Average Age (KPI)
+● Employee Count (KPI) - Total Employee = COUNT('HR-Employee-Attrition'[EmployeeNumber])
+● Attition Count (KPI) - Attrition Count --> Go to  Conditional column -–>  If attrition = yes them 1 else 0  -- it is a total employee working in company right now
+● Attrition Rate (KPI) - Attrition Rate = SUM('HR-Employee-Attrition'[Attrition Count])/SUM('HR-Employee-Attrition'[EmployeeCount]) 
+● Active Employee (KPI) - Active Employee = SUM('HR-Employee-Attrition'[EmployeeCount]) - SUM('HR-Employee-Attrition'[Attrition Count])
+● Average Age (KPI) 
 
 Total 5 KPI we have used in this porject and charts include are - 
 ● Department wise Attrition (Pie Chart)
