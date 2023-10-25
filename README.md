@@ -45,3 +45,7 @@ In addition to these metrics, the dashboard provides insights into employee perf
 The dashboard also includes interactive features that allow users to filter and drill down into specific data sets, such as department, location, or job level. This provides HR professionals with a more detailed view of their data, allowing them to identify patterns and trends more easily.
 
 Overall, HR Analytics Dashboard project using Powerbi  is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Powerbi  data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
+
+# Dashboard 
+<img width="590" alt="image" src="https://github.com/DA-Nikhil/HrAnalyticsDashboard/assets/145112170/de252990-ac61-4726-8266-64f219586b54">
+
