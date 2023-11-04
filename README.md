@@ -1,4 +1,4 @@
-# HrAnalyticsDashboard
+# MeriSkill - HrAnalyticsDashboard
 
 Let's Connect in LinkeInd - www.linkedin.com/in/ernikhil-vishwakarma/
 
